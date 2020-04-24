@@ -1,7 +1,6 @@
 <div align="center">
 
-# A simple data visualization using 
-# antv/g2plot, apexcharts, plotly.js
+# A simple data visualization using <br/> antv/g2plot, apexcharts, plotly.js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
